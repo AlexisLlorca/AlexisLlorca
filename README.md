@@ -3,7 +3,7 @@
 ## 🚀 Sobre Mí
 Soy un estudiante apasionado de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, actualmente preparándome para comenzar mi segundo año y el período de **Formación en Centros de Trabajo (FCT)**. 
 
-Me especializo en el desarrollo de software robusto utilizando el ecosistema de **Java**, con un fuerte enfoque en la arquitectura limpia, la persistencia de datos y el diseño orientado a objetos. Como usuario de **Linux (CachyOS / Arch Linux)**, disfruto de la automatización, la optimización de entornos de desarrollo y el trabajo eficiente con la terminal.
+Me especializo en el desarrollo de software robusto utilizando el ecosistema de **Java**, con un fuerte enfoque en la arquitectura limpia, la persistencia de datos y el diseño orientado a objetos. Como usuario de **Linux (CachyOS / Arch Linux)** y **Windows**, disfruto de la automatización, la optimización de entornos de desarrollo y el trabajo eficiente con la terminal.
 
 * 🎯 **Mi objetivo actual**: Consolidar mis habilidades técnicas y aportar valor real como desarrollador junior durante mis prácticas de FCT.
 * 🛠️ **En qué estoy trabajando**: El ecosistema **ProjectCraft**, una serie de proyectos modulares que demuestran el control de lógica de negocio, bases de datos (JDBC/JPA) e interfaces gráficas (JavaFX).
@@ -18,7 +18,7 @@ Me especializo en el desarrollo de software robusto utilizando el ecosistema de 
 | **Lenguajes** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Persistencia y BBDD** | ![JPA](https://img.shields.io/badge/JPA%20/%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![JDBC](https://img.shields.io/badge/JDBC-00758F?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Entornos y Herramientas** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) |
-| **Sistemas Operativos** | ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![CachyOS](https://img.shields.io/badge/CachyOS-000000?style=for-the-badge&logo=linux&logoColor=9cf) |
+| **Sistemas Operativos** | ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![CachyOS](https://img.shields.io/badge/CachyOS-000000?style=for-the-badge&logo=linux&logoColor=9cf) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
 | **Interfaces de Usuario** | ![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=oracle&logoColor=white) |
 
 ---

@@ -45,7 +45,9 @@ Una aplicación de escritorio interactiva con un panel visual para la gestión d
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexisLlorca&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/github/followers/AlexisLlorca?label=Seguidores&style=for-the-badge&color=blue" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/AlexisLlorca?label=Estrellas&style=for-the-badge&color=yellow" alt="Estrellas" />
+  <img src="https://img.shields.io/github/repo-size/AlexisLlorca/ProjectCraft-Console?label=ProjectCraft&style=for-the-badge&color=green" alt="ProjectCraft" />
 </p>
 
 ---

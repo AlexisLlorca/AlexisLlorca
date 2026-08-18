@@ -45,7 +45,7 @@ Una aplicación de escritorio interactiva con un panel visual para la gestión d
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexisLlorca&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlexisLlorca&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
